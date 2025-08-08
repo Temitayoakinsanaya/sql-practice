@@ -1,10 +1,9 @@
 # sql-practice
 sql-practice/
 │
-├── README.md                 # Overview of your repo
+├── README.md                 # Overview 
 ├── datasets/                 # CSV or SQL files to use for practice
-│   ├── employees.csv
-│   ├── sales_data.csv
+
 │
 ├── basics/                    # Beginner queries
 │   ├── 01_select_where.sql
